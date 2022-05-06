@@ -16,11 +16,11 @@ title: small.mp4
 uid: fa1e211b-92e7-4b4a-b307-efbd95c08216
 video_files:
   video_captions_file: /courses/mb-may-6/1ouQk0YkZyGQRhXCgoIi0mk9pyVx8ySdG_transcript_webvtt
-  video_thumbnail_file: https://img.youtube.com/vi/GfjkPmTrhwE/default.jpg
+  video_thumbnail_file: https://img.youtube.com/vi/GfjkPmTrhwE2/default.jpg
   video_transcript_file: /courses/mb-may-6/1ouQk0YkZyGQRhXCgoIi0mk9pyVx8ySdG_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: GfjkPmTrhwE
+  youtube_id: GfjkPmTrhwE2
 ---
