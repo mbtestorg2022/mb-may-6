@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/gdrive_uploads/mb-may-6/1ouQk0YkZyGQRhXCgoIi0mk9pyVx8ySdG/small.mp4
+file: /courses/mb-may-6/small_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
